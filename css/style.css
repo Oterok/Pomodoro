@@ -1,0 +1,18 @@
+#contenido{
+    width: 1200px;
+    height: 1000px;
+}
+
+#caja{
+    width: 40%;
+    height: 100%;
+    float: left;
+    background-color: #424242;
+}
+
+#info{
+    width: 40%;
+    height: 100%;
+    float: right;
+    background-color: beige;
+}
